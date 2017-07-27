@@ -1,3 +1,6 @@
+if (module['hot'])
+  module['hot'].accept();
+
 import * as Vue from 'vue';
 import VueRouter from 'vue-router';
 

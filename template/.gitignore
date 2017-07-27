@@ -2,7 +2,8 @@
 node_modules/
 dist/
 coverage/
-src/css
+src/client/css
 src/**/*.js
 src/**/*.map
 *.log
+yarn.lock
